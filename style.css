@@ -1,0 +1,29 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background: url(./bg.jpg) no-repeat;
+    background-size: 100%;
+    background-position: center;
+    color: white;
+}
+
+
+form {
+    background: transparent;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    background-position: center;
+    text-align: center;
+   
+}
+.username input{
+    height: 100%;
+    width: 100%;
+    background: transparent;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
